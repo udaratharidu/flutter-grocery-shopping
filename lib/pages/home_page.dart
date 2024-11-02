@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:grocery_page/pages/home_page/widgets/serch_bar.dart';
 import 'package:grocery_page/widgets/appBar/app_bar.dart';
-import 'package:grocery_page/widgets/reusable/product_card.dart';
-import 'package:grocery_page/widgets/reusable/sale_and_low_card.dart';
+import 'package:grocery_page/widgets/reusable/home_page/product_card.dart';
+import 'package:grocery_page/widgets/reusable/home_page/sale_and_low_card.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({super.key});
