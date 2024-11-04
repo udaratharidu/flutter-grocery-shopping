@@ -3,6 +3,7 @@ import 'package:grocery_page/widgets/reusable/catagory_page/catagory_card.dart';
 import 'package:grocery_page/pages/catagory_page/selected_item.dart';
 import 'package:grocery_page/widgets/shared/notification_cart.dart';
 
+// ignore: camel_case_types
 class catagoryPage extends StatelessWidget {
   const catagoryPage({super.key});
 
